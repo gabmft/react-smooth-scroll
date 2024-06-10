@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-smooth-scroll/static/css/main.5038802a.css",
-    "main.js": "/react-smooth-scroll/static/js/main.35af365a.js",
+    "main.css": "/react-smooth-scroll/static/css/main.99232e21.css",
+    "main.js": "/react-smooth-scroll/static/js/main.fd1d827b.js",
     "static/media/background1.jpg": "/react-smooth-scroll/static/media/background1.eab1e51992d80c29107d.jpg",
     "static/media/background4.jpg": "/react-smooth-scroll/static/media/background4.4df2ccef3e7f15123c9e.jpg",
     "static/media/background3.jpg": "/react-smooth-scroll/static/media/background3.016e3d265c4c88bedfd3.jpg",
     "static/media/background2.jpg": "/react-smooth-scroll/static/media/background2.481b7dd3bee6a45366bc.jpg",
     "static/media/background5.jpg": "/react-smooth-scroll/static/media/background5.f6454523c1ad2f14b618.jpg",
     "index.html": "/react-smooth-scroll/index.html",
-    "main.5038802a.css.map": "/react-smooth-scroll/static/css/main.5038802a.css.map",
-    "main.35af365a.js.map": "/react-smooth-scroll/static/js/main.35af365a.js.map"
+    "main.99232e21.css.map": "/react-smooth-scroll/static/css/main.99232e21.css.map",
+    "main.fd1d827b.js.map": "/react-smooth-scroll/static/js/main.fd1d827b.js.map"
   },
   "entrypoints": [
-    "static/css/main.5038802a.css",
-    "static/js/main.35af365a.js"
+    "static/css/main.99232e21.css",
+    "static/js/main.fd1d827b.js"
   ]
 }
