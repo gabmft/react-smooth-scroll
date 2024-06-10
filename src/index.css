@@ -1,13 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100;1,300;1,400&display=swap');
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: 'Roboto Condensed', 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+h1{
+  font-size: 3.5rem;
+}
+
+h2{
+  font-size: 3rem;
+}
+
+h3{
+  font-size: 2rem;
+}
+ul{
+  list-style-type: none;
+} 
+ul li a{
+  text-decoration: none;
+}
+
+.btn{
+  margin: .5rem;
+  padding: .7rem 1.5rem;
+font-size: .8rem;
+font-weight: 600;
+text-transform: uppercase;
+border-radius: 25px;
+border: none;
+background: rgba(255,255,255,.1);
+width: 90%;
+cursor: pointer;
+color:#f6f6f6;
+}
+
+.btn-dark{
+background: rgba(0,0,0,.5);
+}
+.btn-dark:hover{
+  background: rgba(0,0,0,.8);
+}
+.btn:hover{
+  background: rgba(255,255,255,.6);
 }

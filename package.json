@@ -1,17 +1,23 @@
 {
-  "name": "react-smooth-scroll",
+  "name": "tic-tac-toe",
   "version": "0.1.0",
+  "homepage": "https://gabmft.github.io/react-router-link/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "gh-pages": "^6.1.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
+    "sound": "^3.1.0",
+    "use": "^3.1.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
